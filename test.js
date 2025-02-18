@@ -1,4 +1,4 @@
-// some useful comment
+// some useful comment!
 const max = 7;
 let res = [];
 for (let len = 2; len <= 19; len++) {
