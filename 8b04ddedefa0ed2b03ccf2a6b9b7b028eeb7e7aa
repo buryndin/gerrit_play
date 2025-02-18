@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "10654014_9b634761",
+        "filename": "test.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1038459
+      },
+      "writtenOn": "2025-02-18T12:45:30Z",
+      "side": 1,
+      "message": "fill(2)",
+      "range": {
+        "startLine": 4,
+        "startChar": 23,
+        "endLine": 4,
+        "endChar": 30
+      },
+      "revId": "8b04ddedefa0ed2b03ccf2a6b9b7b028eeb7e7aa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ba8a061e_69544e56",
+        "filename": "test.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1038459
+      },
+      "writtenOn": "2025-02-18T12:45:30Z",
+      "side": 1,
+      "message": "```suggestion\n    for (let i \u003d 1; i \u003c\u003d max + 1; i++) {\n```",
+      "range": {
+        "startLine": 5,
+        "startChar": 4,
+        "endLine": 5,
+        "endChar": 36
+      },
+      "revId": "8b04ddedefa0ed2b03ccf2a6b9b7b028eeb7e7aa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
