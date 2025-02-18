@@ -22,6 +22,30 @@
       },
       "revId": "4bcc51a6905be25ec7b09fc05a0093be1d3bb2bd",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7730c4c2_d10eaca5",
+        "filename": ".gitreview",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1038649
+      },
+      "writtenOn": "2025-02-18T03:26:26Z",
+      "side": 1,
+      "message": "nope",
+      "parentUuid": "43617817_9c1dd10c",
+      "range": {
+        "startLine": 3,
+        "startChar": 5,
+        "endLine": 3,
+        "endChar": 10
+      },
+      "revId": "4bcc51a6905be25ec7b09fc05a0093be1d3bb2bd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
