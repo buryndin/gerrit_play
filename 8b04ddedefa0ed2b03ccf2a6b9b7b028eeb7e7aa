@@ -3,6 +3,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "65a5f7b4_b2b53ea1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1038459
+      },
+      "writtenOn": "2025-02-18T13:07:21Z",
+      "side": 1,
+      "message": "rebase",
+      "revId": "8b04ddedefa0ed2b03ccf2a6b9b7b028eeb7e7aa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "10654014_9b634761",
         "filename": "test.js",
         "patchSetId": 1
